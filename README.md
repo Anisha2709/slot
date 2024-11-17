@@ -24,9 +24,9 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```
+
 [text](ani/slotapp/static/time.html)
-```
+
 ## OUTPUT
 ![alt text](<My Output for Timetable.jpg>)
 
