@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date: 17.11.2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,10 +24,11 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
-
+```
+[text](ani/slotapp/static/time.html)
+```
 ## OUTPUT
-
+![alt text](<My Output for Timetable.jpg>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
